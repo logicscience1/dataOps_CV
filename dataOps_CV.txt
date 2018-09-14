@@ -1,0 +1,12 @@
+David Brand
+programmer@logicscience.co.uk
++447305948213
+skype:logicscience
+
+12/2018 to present
+DataOps Manager at Insight (Managed Services Operation)
+2000+ managed services clients for break fix, asset lifecyle, service desk, CDCT, connected workforce, managed office and digital innovation.
+6sigma and ISO 20000-1 implementation
+Azure data warehouse architecture, implementation and management for dataOps (data factory, sql server, analytics, predictive analytics, machine learning, automation and bots)
+
+
